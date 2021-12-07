@@ -7,4 +7,4 @@ Use command ...
 
 docker-compose up
 
-... to bring the stach up
+... to bring the stack up
